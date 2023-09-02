@@ -1,4 +1,4 @@
-##### Files manager
+<center><h1> Files Manager </h1></center>
 
 Files manager
 
